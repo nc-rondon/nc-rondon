@@ -7,5 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc-rondon&show_icons=true&theme=transparent)
 ### Projetos
+[![Blog](	https://github-readme-stats.vercel.app/api/top-langs/?username=nc-rondon&theme=blue-green)]()
 
 
